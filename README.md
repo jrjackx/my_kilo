@@ -1,6 +1,7 @@
 # my_kilo
 DIY text editor, made entirely in a single C file from-scratch.
 I am following along with this tutorial: https://viewsourcecode.org/snaptoken/kilo/
+The project is still very much WIP, doesn't do much currently.
 
 My intention is to learn about raw terminal input, so that I may implement a cleaner Terminal User Interface into my pre-existing meal tracker program while only relying on libc. (not using ncurses, termbox, etc.)
 

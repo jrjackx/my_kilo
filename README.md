@@ -12,6 +12,10 @@ What i've learned:
 - Remapping CTRL keys, e.g setting CTRL+q to quit instead of the terminal emulator CTRL+c defualt.
 - Character buffers, reading special codes spat out from the terminal back into the program.
 - the nature of the terminal emulator being a separate program from the actual text editor program I am writing, which merely *interfaces* with the terminal emulator rather than being an inseparable part of it.
+- assembling an append buffer instead of doing a bunch of little write calls, writing the whole thing on a draw pass.
+- processing escape sequences, like what the arrow keys send to stdin.
+- inline arguments when starting the program
+- loading in external file information into append buffer
 
 Build instsructions:
 

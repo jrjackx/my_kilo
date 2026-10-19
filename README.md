@@ -1,4 +1,5 @@
 # my_kilo
+**This project has been abandoned in favor of making something original, which you can see in icuf.** ***TODO PUT THE ICUF SOURCE CODE ON HERE.***
 DIY text editor, made entirely in a single C file from-scratch.
 I am following along with this tutorial: https://viewsourcecode.org/snaptoken/kilo/
 The project is still very much WIP, doesn't do much currently.
